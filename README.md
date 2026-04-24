@@ -38,8 +38,8 @@ The goal is to practice the full attack-detect-respond cycle that SOC analysts e
 │   │  • LimaCharlie   │    │  • Python HTTP       │  │
 │   │    Agent         │    │    Server            │  │
 │   └──────┬───────────┘    └──────────────────────┘  │
-│          │                                           │
-│          ▼                                           │
+│          │                                          │
+│          ▼                                          │
 │   ┌──────────────────┐                              │
 │   │  LimaCharlie     │                              │
 │   │  Cloud Portal    │                              │
